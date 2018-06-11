@@ -1,0 +1,15 @@
+{
+  "name":         "Cairo",
+  "version":      "0.1",
+  "description":  "Cairo is a 2D graphics library. http://cairographics.org/",
+  "author":       "Daniel Rosengren",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["Cairo"],
+  "dependencies": {
+    "libs":     ["cairo"],
+    "headers":  ["cairo.h"],
+    "protos":   [],
+    "packages": []
+  }
+}
